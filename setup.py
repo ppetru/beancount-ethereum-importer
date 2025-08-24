@@ -9,7 +9,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='beancount-ethereum',
-    version='1.4.3',
+    version='2.0.0',
     description='Ethereum transaction importer for Beancount',
     long_description=long_description,
     long_description_content_type='text/markdown',
